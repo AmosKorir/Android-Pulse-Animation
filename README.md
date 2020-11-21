@@ -1,4 +1,4 @@
-# Android cicle pulse Animation
+# Android circle pulse Animation
 
 Location, Request, Request Pulse animation.
 
