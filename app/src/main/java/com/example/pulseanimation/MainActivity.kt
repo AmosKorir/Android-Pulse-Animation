@@ -52,7 +52,7 @@ class MainActivity : AppCompatActivity() {
             .map { runAnimation() }
             .subscribe(
                 {
-                    Log.e("animationError","success")
+                    Log.d("animationSuccess","success")
                 }, {
                     Log.e("animationError","Error"+it.message)
                 }
