@@ -1,6 +1,6 @@
 # Android circle pulse Animation
 
-Location, Request, Request Pulse animation.
+Location, circular, Request Pulse animation.
 
 
 This a simple implementation of a circular pulse animation using Rxjava3, interval Observable. (alternative to recursive Handler and runnables)
